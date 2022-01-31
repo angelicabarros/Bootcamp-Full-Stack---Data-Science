@@ -1,5 +1,5 @@
 # Bootcamp-Full-Stack---Data-Science
-Projeto desenvolvido no Bootcamp Full Stack Data Science 
+Projeto desenvolvido no Bootcamp Full Stack Data Science da Stack
 
 ## Questão
 O projeto busca realizar uma análise do turnover e a predição de permanência dos colaboradores de uma empresa considerando os fatores de satisfação, evolução, carga horária mensal e tempo de empresa.
